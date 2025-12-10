@@ -15,7 +15,6 @@
 <img src="Capture d'écran 2025-12-10 184505.png" width="280" height="180" alt="">
 <img src="Capture d'écran 2025-12-10 184631.png" width="280" height="180" alt="">
 <img src="Capture d'écran 2025-12-10 184659.png" width="280" height="180" alt="">
-<img src="Capture d'écran 2025-12-10 184719.png" width="280" height="180" alt="">
 <img src="Capture d'écran 2025-12-10 184745.png" width="280" height="180" alt="">
 </div>
 
@@ -253,4 +252,5 @@ Projet destiné à des usages académiques et analytics retail. Adapter la licen
 - Auteur: Ikram Khemiri
 - Support: voir logs Streamlit et notifications interface
 - Suggestions: ouvrir une issue sur le repository
+
 
