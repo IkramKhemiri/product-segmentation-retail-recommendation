@@ -6,14 +6,17 @@
 
 ### 📸 Galerie de l’application
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 20px 0;">
-<img src="assets/images/dashboard_overview.png" width="280" height="180" alt="Vue d'ensemble">
-<img src="assets/images/segmentation_scatter.png" width="280" height="180" alt="Segmentation produits">
-<img src="assets/images/promotion_decomposition.png" width="280" height="180" alt="Décomposition du score promo">
-<img src="assets/images/top_products.png" width="280" height="180" alt="Top produits">
-<img src="assets/images/seasonality.png" width="280" height="180" alt="Saisonnalité">
-<img src="assets/images/clustering_comparison.png" width="280" height="180" alt="Comparaison clustering">
-<img src="assets/images/client_insights.png" width="280" height="180" alt="Insights clients">
-<img src="assets/images/best_model_products.png" width="280" height="180" alt="Meilleur modèle produits">
+<!-- Galerie unifiée sans titres, même disposition -->
+<img src="Capture d'écran 2025-12-10 184319.png" width="280" height="180" alt="">
+<img src="Capture d'écran 2025-12-10 184335.png" width="280" height="180" alt="">
+<img src="Capture d'écran 2025-12-10 184412.png" width="280" height="180" alt="">
+<img src="Capture d'écran 2025-12-10 184429.png" width="280" height="180" alt="">
+<img src="Capture d'écran 2025-12-10 184448.png" width="280" height="180" alt="">
+<img src="Capture d'écran 2025-12-10 184505.png" width="280" height="180" alt="">
+<img src="Capture d'écran 2025-12-10 184631.png" width="280" height="180" alt="">
+<img src="Capture d'écran 2025-12-10 184659.png" width="280" height="180" alt="">
+<img src="Capture d'écran 2025-12-10 184719.png" width="280" height="180" alt="">
+<img src="Capture d'écran 2025-12-10 184745.png" width="280" height="180" alt="">
 </div>
 
 </div>
@@ -250,3 +253,4 @@ Projet destiné à des usages académiques et analytics retail. Adapter la licen
 - Auteur: Ikram Khemiri
 - Support: voir logs Streamlit et notifications interface
 - Suggestions: ouvrir une issue sur le repository
+
